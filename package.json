@@ -1,0 +1,12 @@
+{
+  "name": "semantic-release-no-release-demo",
+  "version": "1.0.0",
+  "description": "Prints 'Hello World!' and the version number from package.json when run from command line using npx",
+  "bin": "./cli.js",
+  "type": "module",
+  "scripts": {
+    
+  },
+  "author": "",
+  "license": "ISC"
+}
