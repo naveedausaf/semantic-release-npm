@@ -1,5 +1,5 @@
 {
-  "name": "semantic-release-no-release-demo",
+  "name": "show-version-number",
   "version": "1.0.0",
   "description": "Prints 'Hello World!' and the version number from package.json when run from command line using npx",
   "bin": "./cli.js",
