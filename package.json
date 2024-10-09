@@ -1,5 +1,5 @@
 {
-  "name": "show-version-number",
+  "name": "show-version-number-nausaf",
   "version": "1.0.0",
   "description": "Prints 'Hello World!' and the version number from package.json when run from command line using npx",
   "bin": "./cli.js",

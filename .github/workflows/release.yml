@@ -25,6 +25,7 @@ jobs:
         id: semanticrelease
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           npm ci
           echo "RELEASED=0" >> $GITHUB_ENV
