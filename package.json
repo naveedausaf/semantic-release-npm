@@ -18,5 +18,8 @@
     "@semantic-release/git": "^10.0.1",
     "husky": "^9.1.6",
     "semantic-release": "^24.1.2"
+  },
+  "repository": {
+    "url": "https://github.com/naveedausaf/semantic-release-npm"
   }
 }
